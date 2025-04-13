@@ -1,0 +1,8 @@
+<resources>
+    <string name="google_app_id">1:874501352851:android:ff49c4993e0fc6f6f18c66</string>
+    <string name="gcm_defaultSenderId">874501352851</string>
+    <string name="firebase_database_url">https://pushuptrainer-68dd8.firebaseio.com</string>
+    <string name="project_id">pushuptrainer-68dd8</string>
+    <string name="storage_bucket">pushuptrainer-68dd8.firebasestorage.app</string>
+    <string name="google_api_key">AIzaSyCF9wuAL6lWcl29ZFO0uVXsLuD2vbsghug</string>
+</resources>
