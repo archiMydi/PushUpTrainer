@@ -122,6 +122,10 @@ Veuillez suivre les étapes suivantes :
 
 ---
 
+## Contributeurs
+
+- **VENZAL Archibald**
+
 ## Licence
 
 Ce projet est sous licence MIT.
